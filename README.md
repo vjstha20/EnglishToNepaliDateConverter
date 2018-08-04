@@ -26,3 +26,5 @@ This module is similar to the BS to AD module with the particular and significan
 7.	End
 
 For further information you can view the report that I have Uploaded and also the code. Feel free to make chages as per your desire in the code. 
+
+NOTICE: I have used IDE Dev C++ so to run my code use the same IDE. Any other IDE can result error
