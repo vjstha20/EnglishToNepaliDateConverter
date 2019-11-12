@@ -28,3 +28,6 @@ This module is similar to the BS to AD module with the particular and significan
 For further information you can view the report that I have Uploaded and also the code. Feel free to make chages as per your desire in the code. 
 
 NOTICE: I have used IDE Dev C++ so to run my code use the same IDE. Any other IDE can result error
+IGNORE:
+This project can also be used in official tasks like lawyers can use this to convert dates. New york lawyers can use it to convert date.
+To know more about top new york lawyers here is the complete list of top 10 best new york lawyers or best new york attorneys. The nyc lawyers are the heros:- https://newyorklawyerstop.com/
